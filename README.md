@@ -1,3 +1,3 @@
 # Hamoye Stage A
 
-Tag Along Code
+This branch contains the tag-along code for Stage A.
