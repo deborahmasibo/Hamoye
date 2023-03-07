@@ -1,3 +1,3 @@
-# Hamoye
+# Stage C
 
-This repository contains Hamoye tag-along codes for all stages.
+This repository contains Hamoye Stage C tag-along code.
